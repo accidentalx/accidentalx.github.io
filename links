@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Links</title>
+</head>
+
+<body style="max-width:720px;margin:40px auto;padding:0 16px;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;line-height:1.5;">
+  <h1>Links</h1>
+
+  <ul>
+    <li><a href="https://orcid.org/0009-0006-6413-9978</a></li>
+    <li><a href="https://www.linkedin.com/in/…">LinkedIn</a></li>
+    <li><a href="https://github.com/accidentalx">GitHub</a></li>
+  </ul>
+</body>
+</html>
